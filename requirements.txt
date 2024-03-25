@@ -1,0 +1,6 @@
+asyncio
+websockets
+Pillow
+tk
+pyautogui
+mss
